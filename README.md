@@ -1,5 +1,8 @@
 # Accounting-Review-of-BANK-MIBANCO-June-2026-
 
+-La informacion presentada se basa en los datos brindados por la SBS mediante su pagina web
+-Solamente se toma algunas cuentas representativas 
+-W.i.P.
 
 # DISPONIBLE
 <img width="1186" height="507" alt="disponible mibanco" src="https://github.com/user-attachments/assets/df11c944-07d6-42a9-a804-441c6762f5ab" />
