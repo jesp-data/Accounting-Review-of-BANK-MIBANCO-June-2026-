@@ -6,7 +6,7 @@
 
 Entre 2010 y 2026, el rubro Disponible muestra una marcada tendencia al alza a largo plazo, pasando de S/ 361,916 mil en julio de 2010 a un máximo histórico de S/ 1,952,850 mil en diciembre de 2025, cerrando en S/ 1,810,989 mil a junio de 2026. La composición está fuertemente dominada por Bancos y Corresponsales (representando históricamente el mayor volumen de liquidez), seguida por la cuenta de Caja que ha mantenido un crecimiento sostenido y base desde 2018. Las subcuentas Otros y Canje tienen una participación marginal y puntual, destacando únicamente un pico atípico en Otros durante el periodo 2015-2016.
 
-Las principales variaciones reflejan ciclos de volatilidad en el mediano plazo: un primer pico importante en dic-2015 (S/ 1.32M) seguido de una contracción, y una fuerte expansión a partir de 2019 que impulsó el disponible por encima del millón de soles. Destacan las pronunciadas fluctuaciones entre 2020 y 2023, con caídas drásticas en dic-2021 (S/ 1.10M) y dec-2023 (S/ 1.09M) seguidas por marcadas recuperaciones en dec-2020 (S/ 1.83M) y dec-2022 (S/ 1.85M), consolidando la liquidez en niveles máximos durante el tramo 2024-2026.
+Las principales variaciones reflejan ciclos de volatilidad en el mediano plazo: un primer pico importante en dic-2015 (S/ 1.32M) seguido de una contracción, y una fuerte expansión a partir de 2019 que impulsó el disponible por encima del millón de soles. Destacan las pronunciadas fluctuaciones entre 2020 y 2023, con caídas drásticas en dic-2021 (S/ 1.10M) y dic-2023 (S/ 1.09M) seguidas por marcadas recuperaciones en dic-2020 (S/ 1.83M) y dic-2022 (S/ 1.85M), consolidando la liquidez en niveles máximos durante el tramo 2024-2026.
 
 # CREDITOS
 
@@ -22,7 +22,7 @@ Las principales variaciones muestran tres fases operativas clave: una etapa de c
 
 Entre 2010 y 2026, las Obligaciones con el Público muestran una trayectoria expansiva constante e interrupciones mínimas, escalando desde S/ 2,568,381 mil en julio de 2010 hasta alcanzar un récord histórico de S/ 11,110,784 mil en junio de 2026. La estructura del fondeo está abrumadoramente concentrada en los Depósitos a Plazo, complementada en segundo orden por los Depósitos de Ahorro y en menor medida por Depósitos a la Vista. Las subcuentas de Depósitos Restringidos y Otras Obligaciones mantienen una presencia prácticamente imperceptible dentro del volumen total.
 
-Las variaciones históricas evidencian tres dinámicas clave de crecimiento: un tramo inicial de avance estable entre 2010 y 2014, seguido de un salto de aceleración sostenida a partir de 2015 (S/ 5.75M) que casi duplicó los saldos en tres años hasta superponer la barrera de los 7 millones en 2017. Tras un estancamiento en dic-2021 (S/ 8.25M), la captación retomó un ritmo ascendente agresivo, superando los 10 mil millones en dec-2024 (S/ 10.78M) y consolidando la base de fondear la entidad en su máximo nivel hacia mediados de 2026.
+Las variaciones históricas evidencian tres dinámicas clave de crecimiento: un tramo inicial de avance estable entre 2010 y 2014, seguido de un salto de aceleración sostenida a partir de 2015 (S/ 5.75M) que casi duplicó los saldos en tres años hasta superponer la barrera de los 7 millones en 2017. Tras un estancamiento en dic-2021 (S/ 8.25M), la captación retomó un ritmo ascendente agresivo, superando los 10 mil millones en dic-2024 (S/ 10.78M) y consolidando la base de fondear la entidad en su máximo nivel hacia mediados de 2026.
 
 
 
@@ -30,3 +30,8 @@ Las variaciones históricas evidencian tres dinámicas clave de crecimiento: un 
 
 
 <img width="1247" height="574" alt="patrimonio mibanco" src="https://github.com/user-attachments/assets/93765045-5c50-4a89-83f3-b0c521990175" />
+
+Entre 2010 y 2026, el Patrimonio muestra una solidez estructural con una marcada tendencia alcista a largo plazo, multiplicándose casi ocho veces al pasar de S/ 357,854 mil en julio de 2010 a un máximo histórico de S/ 2,865,063 mil en diciembre de 2023, para luego estabilizarse en S/ 2,810,481 mil a junio de 2026. La composición está fuertemente impulsada por la cuenta de Capital, fortalecida significativamente a lo largo del tiempo por la capitalización de utilidades representada en Reservas, Resultados Acumulados y el Resultado Neto del Ejercicio.
+
+Las principales variaciones evidencian hitos clave de fortalecimiento patrimonial: un crecimiento moderado entre 2010 y 2014, seguido de un salto extraordinario en 2015 (S/ 1.31M) donde el Capital se incrementó sustancialmente. A partir de 2018 se observa un ritmo de capitalización acelerado que llevó al patrimonio a superar la barrera de los 2 mil millones en dic-2020 (S/ 2.33M). En dic-2023 se evidencia la mayor participación de los Resultados Acumulados, los cuales podrían haber sido distribuidos, dado que no se evidencia un incremento proporcional del Capital o Reservas .Tras una contracción temporal en dic-2021 (S/ 2.21M) y un ajuste leve en dic-2024 (S/ 2.54M), la entidad logró recuperar niveles superiores a los S/ 2.80M hacia mediados de 2026.
+
