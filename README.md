@@ -20,6 +20,11 @@ Las principales variaciones muestran tres fases operativas clave: una etapa de c
 
 <img width="1681" height="574" alt="obligaciones mibanco" src="https://github.com/user-attachments/assets/e7ae19c7-5a1e-4dd1-a981-e57f4cf1e755" />
 
+Entre 2010 y 2026, las Obligaciones con el Público muestran una trayectoria expansiva constante e interrupciones mínimas, escalando desde S/ 2,568,381 mil en julio de 2010 hasta alcanzar un récord histórico de S/ 11,110,784 mil en junio de 2026. La estructura del fondeo está abrumadoramente concentrada en los Depósitos a Plazo, complementada en segundo orden por los Depósitos de Ahorro y en menor medida por Depósitos a la Vista. Las subcuentas de Depósitos Restringidos y Otras Obligaciones mantienen una presencia prácticamente imperceptible dentro del volumen total.
+
+Las variaciones históricas evidencian tres dinámicas clave de crecimiento: un tramo inicial de avance estable entre 2010 y 2014, seguido de un salto de aceleración sostenida a partir de 2015 (S/ 5.75M) que casi duplicó los saldos en tres años hasta superponer la barrera de los 7 millones en 2017. Tras un estancamiento en dic-2021 (S/ 8.25M), la captación retomó un ritmo ascendente agresivo, superando los 10 mil millones en dec-2024 (S/ 10.78M) y consolidando la base de fondear la entidad en su máximo nivel hacia mediados de 2026.
+
+
 
 # PATRIMONIO
 
